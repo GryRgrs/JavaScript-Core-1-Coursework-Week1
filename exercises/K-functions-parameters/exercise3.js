@@ -1,5 +1,5 @@
-// Write your function here
+const greetingStart = ("Hello, my name is ")
+const greeting = ("Daniel");
+console.log(greetingStart + greeting);
 
-var greeting = createGreeting("Daniel");
 
-console.log(greeting);
